@@ -1,0 +1,349 @@
+.adobestock6152461491Icon {
+  position: absolute;
+  top: 0;
+  left: 336px;
+  width: 1776px;
+  height: 996px;
+  object-fit: cover;
+}
+.backgroundChild {
+  position: absolute;
+  top: 0;
+  left: 336px;
+  background-color: var(--color-gray-300);
+  width: 1440px;
+  height: 968px;
+}
+.background {
+  position: absolute;
+  top: 0;
+  left: -336px;
+  width: 1776px;
+  height: 996px;
+}
+.creatingYourAccount,
+.welcome {
+  position: absolute;
+  top: 26.33%;
+  left: 5.25%;
+  font-size: var(--font-size-19xl);
+}
+.creatingYourAccount {
+  top: 36%;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  color: var(--color-dimgray);
+}
+.enterDomain {
+  position: absolute;
+  top: 26.33%;
+  left: 5.25%;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  color: var(--color-dimgray);
+}
+
+.hyperionIcon {
+  position: absolute;
+  height: 7.22%;
+  width: 22.88%;
+  top: 10.73%;
+  right: 71.68%;
+  bottom: 82.05%;
+  left: 5.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.mainContentImage {
+  position: absolute;
+  top: 0;
+  left: 400px;
+  width: 400px;
+  height: 600px;
+  object-fit: cover;
+}
+.byContinuingYou {
+  margin: 0;
+}
+.termsOfUse {
+  color: var(--color-aqua);
+}
+.span {
+  color: var(--color-dimgray);
+}
+.and {
+  color: var(--color-darkgray);
+}
+.termsOfUseAndPrivacyPolic {
+  margin: 0;
+  color: var(--color-aqua);
+}
+.byContinuingYouContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 16px;
+  font-weight: 300;
+}
+.byContinuingYouAreAcknowlWrapper,
+.checkmarkIcon {
+  position: absolute;
+  height: 100%;
+  width: 90.44%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 9.56%;
+}
+.checkmarkIcon {
+  height: 56.25%;
+  width: 6.14%;
+  right: 93.86%;
+  bottom: 43.75%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.disclaimer {
+  position: absolute;
+  height: 5.33%;
+  width: 36.63%;
+  top: 66.83%;
+  right: 58.38%;
+  bottom: 27.83%;
+  left: 5%;
+  font-size: var(--font-size-3xs);
+  color: var(--color-darkgray);
+}
+.submit {
+  position: relative;
+  letter-spacing: 0.01em;
+}
+.cta {
+  position: absolute;
+  width: 40%;
+  top: calc(50% + 32px);
+  right: 55%;
+  left: 5%;
+  border-radius: var(--br-5xs);
+  background: linear-gradient(90deg, #8af4fb, #00f0ff);
+  height: 44px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-smi) var(--padding-106xl);
+  box-sizing: border-box;
+  opacity: 0.3;
+  color: var(--color-gray-200);
+}
+.enterYourEmail {
+  position: relative;
+  letter-spacing: 0.01em;
+  font-weight: 300;
+}
+.input {
+  position: absolute;
+  width: 40%;
+  top: calc(50% - 32px);
+  right: 55%;
+  left: 5%;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-darkslategray);
+  height: 44px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-xs);
+  color: var(--color-paleturquoise);
+}
+.input2 {
+  position: absolute;
+  width: 40%;
+  top: calc(50% - 88px);
+  right: 55%;
+  left: 5%;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-darkslategray);
+  height: 44px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-xs);
+  color: var(--color-paleturquoise);
+}
+.dataBlock {
+  position: absolute;
+  width: 47%;
+  top: calc(50% - 88px);
+  right: 55%;
+  left: 1%;
+  overflow: hidden;
+  font-size: var(--font-size-xs);
+  background-color: var(--color-paleturquoise);
+  color: var(--color-paleturquoise);
+}
+.alreadyHaveAn {
+  position: absolute;
+  top: 5.56%;
+  left: 0;
+  line-height: 16px;
+  font-weight: 300;
+}
+.signInNow {
+  position: relative;
+  line-height: 16px;
+  font-weight: 600;
+}
+.openInBrowser {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.signInNowParent {
+  position: absolute;
+  top: 0;
+  left: 181px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  color: var(--color-paleturquoise);
+}
+.signUp {
+  position: absolute;
+  height: 3%;
+  width: 35.63%;
+  top: 80.5%;
+  right: 59.38%;
+  bottom: 16.5%;
+  left: 5%;
+  color: var(--color-gainsboro);
+}
+.cancelIcon,
+.mainContentBlock {
+  position: absolute;
+  top: 30px;
+  left: 740px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.mainContentBlock {
+  top: 152px;
+  left: 320px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-200);
+  box-shadow: 0 0 20px 8px rgba(0, 0, 0, 0.15);
+  width: 800px;
+  height: 600px;
+  font-size: var(--font-size-sm);
+}
+.copyrightFioLabsParent {
+  position: absolute;
+  top: 912px;
+  left: 105px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  color: var(--color-paleturquoise);
+}
+.poweredBy {
+  top: 804px;
+  left: 686px;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+}
+.fioAppIcon,
+.poweredBy,
+.x {
+  position: absolute;
+}
+.x {
+  top: 856px;
+  left: 711px;
+  font-size: var(--font-size-5xl);
+}
+.fioAppIcon {
+  top: 816px;
+  left: 592px;
+  border-radius: 6.67px;
+  width: 106px;
+  height: 106px;
+  overflow: hidden;
+}
+.icon {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.icon1,
+.metakeepAppIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.metakeepAppIcon {
+  top: 844px;
+  left: 770px;
+  border-radius: 6.67px;
+  background-color: var(--color-white);
+  box-shadow: 0 0 20px 8px rgba(0, 0, 0, 0.15);
+  width: 50px;
+  height: 50px;
+}
+.icon1 {
+  height: 67.97%;
+  width: 75.35%;
+  top: 0;
+  right: 13.95%;
+  bottom: 32.03%;
+  left: 10.7%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.fioLabs,
+.fiolabs {
+  position: absolute;
+  top: 84.31%;
+  left: 0;
+}
+.fioLabs {
+  height: 7.9%;
+  width: 2.99%;
+  top: 87.81%;
+  right: 94.24%;
+  bottom: 4.29%;
+  left: 2.78%;
+}
+.fioGameuxUsers {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 968px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
