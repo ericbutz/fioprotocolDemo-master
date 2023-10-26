@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fioprotocolDemo-master/static/css/main.730eb0d9.css",
-    "main.js": "/fioprotocolDemo-master/static/js/main.2c6d0b86.js",
+    "main.js": "/fioprotocolDemo-master/static/js/main.1c4ccd04.js",
     "static/js/787.233529e6.chunk.js": "/fioprotocolDemo-master/static/js/787.233529e6.chunk.js",
     "static/media/finalBg.svg": "/fioprotocolDemo-master/static/media/finalBg.dc0b42382f74205b79b8.svg",
     "static/media/wax-chain-v.png": "/fioprotocolDemo-master/static/media/wax-chain-v.6122507d2aeb8912c06b.png",
@@ -12,11 +12,11 @@
     "index.html": "/fioprotocolDemo-master/index.html",
     "static/media/checked.svg": "/fioprotocolDemo-master/static/media/checked.dfcae1991620227da30d29469ab7006e.svg",
     "main.730eb0d9.css.map": "/fioprotocolDemo-master/static/css/main.730eb0d9.css.map",
-    "main.2c6d0b86.js.map": "/fioprotocolDemo-master/static/js/main.2c6d0b86.js.map",
+    "main.1c4ccd04.js.map": "/fioprotocolDemo-master/static/js/main.1c4ccd04.js.map",
     "787.233529e6.chunk.js.map": "/fioprotocolDemo-master/static/js/787.233529e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.730eb0d9.css",
-    "static/js/main.2c6d0b86.js"
+    "static/js/main.1c4ccd04.js"
   ]
 }
