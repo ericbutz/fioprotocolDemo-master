@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fioprotocolDemo-master/static/css/main.41e55d89.css",
-    "main.js": "/fioprotocolDemo-master/static/js/main.89c6e11d.js",
+    "main.js": "/fioprotocolDemo-master/static/js/main.bcfadde3.js",
     "static/js/787.233529e6.chunk.js": "/fioprotocolDemo-master/static/js/787.233529e6.chunk.js",
     "static/media/adobestock-615246149-1@2x.png": "/fioprotocolDemo-master/static/media/adobestock-615246149-1@2x.7c0a62f37f7706affcc9.png",
     "static/media/group-1@2x.png": "/fioprotocolDemo-master/static/media/group-1@2x.44af7c23877e1e04da23.png",
@@ -20,11 +20,11 @@
     "static/media/cancel.svg": "/fioprotocolDemo-master/static/media/cancel.42be952e1349c816bf0c50bef65431f9.svg",
     "static/media/open-in-browser.svg": "/fioprotocolDemo-master/static/media/open-in-browser.509d4e2da4fce9018ea6359ecd3d03e5.svg",
     "main.41e55d89.css.map": "/fioprotocolDemo-master/static/css/main.41e55d89.css.map",
-    "main.89c6e11d.js.map": "/fioprotocolDemo-master/static/js/main.89c6e11d.js.map",
+    "main.bcfadde3.js.map": "/fioprotocolDemo-master/static/js/main.bcfadde3.js.map",
     "787.233529e6.chunk.js.map": "/fioprotocolDemo-master/static/js/787.233529e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41e55d89.css",
-    "static/js/main.89c6e11d.js"
+    "static/js/main.bcfadde3.js"
   ]
 }
