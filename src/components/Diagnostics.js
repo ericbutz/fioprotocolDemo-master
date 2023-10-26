@@ -99,7 +99,7 @@ function Diagnostics() {
           icon: WaxChain,
         },
         {
-          text: () => "0xdfdA12sdlfjhKdfdKNJdfNJ166e246bc5cd7E783",
+          text: () => "EOS5tdA12sdlfjhKdfdE1uQbwd6B6Wt46bc5cd7E783",
           style: {
             color: "#252525",
             fontSize: "13px",
@@ -114,7 +114,7 @@ function Diagnostics() {
           icon: FioLogo,
         },
         {
-          text: () => "FIO8ktpWmH8m4cFRmfU9LapzPih5sQ5dFEPWrsdoohFJkwXzwXfNB",
+          text: () => "FIO8ktpWmH8m4cFRmfU9LapzPih5sQ5JkwXzwXfNB",
           style: {
             color: "#252525",
             fontSize: "13px",
