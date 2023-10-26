@@ -193,7 +193,7 @@
   left: 1%;
   overflow: hidden;
   font-size: var(--font-size-xs);
-  background-color: var(--color-paleturquoise);
+  background-color: #b0abab;
   color: var(--color-paleturquoise);
 }
 .alreadyHaveAn {

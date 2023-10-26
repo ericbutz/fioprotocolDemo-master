@@ -1,5 +1,15 @@
 import React, { useEffect, useState, FunctionComponent } from "react";
 import styles from "./FIOGameUXUsers.module.css";
+import mainImage from "../assets/images/group-1@2x.png";
+import hyperionImg from "../assets/images/hyperion.svg";
+import adobeImg from "../assets/images/adobestock-615246149-1@2x.png";
+import checkmarkIcon from "../assets/images/checkmark.svg";
+import openImg from "../assets/images/open-in-browser.svg";
+import cancelImg from "../assets/images/cancel.svg";
+import fioAppImg from "../assets/images/fio-app-icon.svg";
+import misc166Img from "../assets/images/1664313156278-1@2x.png";
+import miscImg from "../assets/images/--1.svg";
+
 
 const SignUp = ({ setCurrentScreen }) => {
   const [org, setOrg] = useState("");
@@ -34,7 +44,7 @@ const SignUp = ({ setCurrentScreen }) => {
         <img
           className={styles.adobestock6152461491Icon}
           alt=""
-          src="/adobestock-615246149-1@2x.png"
+          src={adobeImg}
         />
         <div className={styles.backgroundChild} />
       </div>
@@ -43,8 +53,8 @@ const SignUp = ({ setCurrentScreen }) => {
         <div className={styles.creatingYourAccount}>
           Creating your account now.
         </div>
-        <img className={styles.hyperionIcon} alt="" src="/hyperion.svg" />
-        <img className={styles.mainContentImage} alt="" src="/group-1@2x.png" />
+        <img className={styles.hyperionIcon} alt="" src={hyperionImg}/>
+        <img className={styles.mainContentImage} alt="" src={mainImage} />
         <div className={styles.disclaimer}>
           <div className={styles.byContinuingYouAreAcknowlWrapper}>
             <div className={styles.byContinuingYouContainer}>
@@ -60,7 +70,7 @@ const SignUp = ({ setCurrentScreen }) => {
               </p>
             </div>
           </div>
-          <img className={styles.checkmarkIcon} alt="" src="/checkmark.svg" />
+          <img className={styles.checkmarkIcon} alt="" src={checkmarkIcon}/>
         </div>
         <div className={styles.cta}>
           <button
@@ -86,11 +96,11 @@ const SignUp = ({ setCurrentScreen }) => {
             <img
               className={styles.openInBrowser}
               alt=""
-              src="/open-in-browser.svg"
+              src={openImg}
             />
           </div>
         </div>
-        <img className={styles.cancelIcon} alt="" src="/cancel.svg" />
+        <img className={styles.cancelIcon} alt="" src={cancelImg}/>
       </div>
       <div className={styles.copyrightFioLabsParent}>
         <div className={styles.signInNow}>@Copyright FIO Labs</div>
@@ -99,12 +109,12 @@ const SignUp = ({ setCurrentScreen }) => {
       </div>
       <div className={styles.poweredBy}>Powered by</div>
       <b className={styles.x}>X</b>
-      <img className={styles.fioAppIcon} alt="" src="/fio-app-icon.svg" />
+      <img className={styles.fioAppIcon} alt="" src={fioAppImg} />
       <div className={styles.metakeepAppIcon}>
-        <img className={styles.icon} alt="" src="/1664313156278-1@2x.png" />
+        <img className={styles.icon} alt="" src={misc166Img} />
       </div>
       <div className={styles.fioLabs}>
-        <img className={styles.icon1} alt="" src="/--1.svg" />
+        <img className={styles.icon1} alt="" src={miscImg}/>
         <b className={styles.fiolabs}>FIOLABS</b>
       </div>
     </div>

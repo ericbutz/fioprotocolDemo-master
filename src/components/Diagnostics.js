@@ -7,6 +7,13 @@ import SolanaLogo from "../assets/images/solana-logo.png";
 import FioLogo from "../assets/images/fiologo-1.png";
 import WaxChain from "../assets/images/wax-chain-v.png";
 import styles from "./FIOGameUXUsers.module.css";
+import mainImage from "../assets/images/group-1@2x.png";
+import hyperionImg from "../assets/images/hyperion.svg";
+import adobeImg from "../assets/images/adobestock-615246149-1@2x.png";
+import cancelImg from "../assets/images/cancel.svg";
+import fioAppImg from "../assets/images/fio-app-icon.svg";
+import misc166Img from "../assets/images/1664313156278-1@2x.png";
+import miscImg from "../assets/images/--1.svg";
 
 function Diagnostics() {
   const [currentParagraphs, setCurrentParagraphs] = useState([]);
@@ -107,7 +114,7 @@ function Diagnostics() {
           icon: FioLogo,
         },
         {
-          text: () => "0xF2A1246e60a57c899DCD6e5166e246bc5cd7E783",
+          text: () => "FIO8ktpWmH8m4cFRmfU9LapzPih5sQ5dFEPWrsdoohFJkwXzwXfNB",
           style: {
             color: "#252525",
             fontSize: "13px",
@@ -119,7 +126,7 @@ function Diagnostics() {
       ],
     },
     {
-      text: (vars) => `Registering handle ${vars.user}@${vars.orgName?.toLowerCase()}...`,
+      text: (vars) => `Registering handle ${vars.user}@${vars.orgName?.toLowerCase()}`,
       type: "heading",
       style: { color: "#252525", fontSize: "16px", marginBottom: "12px" },
     },
@@ -266,7 +273,7 @@ function Diagnostics() {
       <img
         className={styles.adobestock6152461491Icon}
         alt=""
-        src="/adobestock-615246149-1@2x.png"
+        src={adobeImg}
       />
       <div className={styles.backgroundChild} />
     </div>
@@ -274,8 +281,8 @@ function Diagnostics() {
       <div className={styles.enterDomain}>
         Register Handle and Domain
       </div>
-      <img className={styles.hyperionIcon} alt="" src="/hyperion.svg" />
-      <img className={styles.mainContentImage} alt="" src="/group-1@2x.png" />
+      <img className={styles.hyperionIcon} alt="" src={hyperionImg} />
+      <img className={styles.mainContentImage} alt="" src={mainImage} />
       <div className={styles.dataBlock}>
         <div className="px-2">
           {currentParagraphs.map((paragraph, index) => (
@@ -306,7 +313,7 @@ function Diagnostics() {
           <div ref={endOfLogsRef}></div>
         </div>
       </div>
-      <img className={styles.cancelIcon} alt="" src="/cancel.svg" />
+      <img className={styles.cancelIcon} alt="" src={cancelImg} />
     </div>
     <div className={styles.copyrightFioLabsParent}>
       <div className={styles.signInNow}>@Copyright FIO Labs</div>
@@ -315,12 +322,12 @@ function Diagnostics() {
     </div>
     <div className={styles.poweredBy}>Powered by</div>
     <b className={styles.x}>X</b>
-    <img className={styles.fioAppIcon} alt="" src="/fio-app-icon.svg" />
+    <img className={styles.fioAppIcon} alt="" src={fioAppImg} />
     <div className={styles.metakeepAppIcon}>
-      <img className={styles.icon} alt="" src="/1664313156278-1@2x.png" />
+      <img className={styles.icon} alt="" src={misc166Img}/>
     </div>
     <div className={styles.fioLabs}>
-      <img className={styles.icon1} alt="" src="/--1.svg" />
+      <img className={styles.icon1} alt="" src={miscImg}/>
       <b className={styles.fiolabs}>FIOLABS</b>
     </div>
   </div>
